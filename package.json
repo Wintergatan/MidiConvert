@@ -2,7 +2,6 @@
   "name": "midiconvert",
   "version": "0.4.3",
   "description": "Convert binary midi into Tone.js-friendly JSON",
-  "main": "build/MidiConvert.js",
   "module": "src/MidiConvert.js",
   "types": "src/MidiConvert.d.ts",
   "scripts": {
